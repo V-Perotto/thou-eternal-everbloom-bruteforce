@@ -11,9 +11,9 @@ If you really enjoyed the game, help the development by buying in this official 
 
 ### Badges
 
-[linuxmint](https://img.shields.io/badge/Linux%20Mint%20-%2022.2%20-%20green?style=flat&logo=linuxmint&logoColor=white&logoSize=auto&labelColor=black&color=%2386BE43)
-[python](https://img.shields.io/badge/Python%20-%203.12%20-%20blue?style=flat&logo=python&logoColor=yellow&logoSize=auto&labelColor=black&color=%233968ba)
-[thou](https://img.shields.io/badge/Thou%2C%20Eternal%20Everbloom%20-%200.2.0.4%20-%20green?style=flat&logoSize=auto&labelColor=black&color=%23309351)
+![linuxmint](https://img.shields.io/badge/Linux%20Mint%20-%2022.2%20-%20green?style=flat&logo=linuxmint&logoColor=white&logoSize=auto&labelColor=black&color=%2386BE43)
+![python](https://img.shields.io/badge/Python%20-%203.12%20-%20blue?style=flat&logo=python&logoColor=yellow&logoSize=auto&labelColor=black&color=%233968ba)
+![thou](https://img.shields.io/badge/Thou%2C%20Eternal%20Everbloom%20-%200.2.0.4%20-%20green?style=flat&logoSize=auto&labelColor=black&color=%23309351)
 
 ## Contributing
 
