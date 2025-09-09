@@ -36,7 +36,7 @@ If you are officially **Caffaholic** and want me to set this repository private 
 4. Run the game in window mode and stay in Bedroom like the image (_I only tested this place like in the image_):
 
 <p align="center">
-    <img src="./local_to_bruteforce.png" width="300" height="180" title="Thou - Bruteforce">
+    <img src="./local_to_bruteforce.png" width="800" height="480" title="Thou - Bruteforce">
 </p>
 
 5. Run the system using `pipenv run thou` and click inside the game less than 5 seconds (after this time, the system will start the loop).
